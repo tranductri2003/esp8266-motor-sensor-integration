@@ -4,7 +4,7 @@
 #include <DHT.h>
 
 // Khai báo thông tin mạng và cảm biến
-const char* ssid = "BIBO1";
+const char* ssid = "BIBO1-5G";
 const char* password = "bibo617487";
 const int servoPin = 16;  // Chân control của servo
 const int DHTPin = 14;     // Chân kết nối cảm biến DHT
